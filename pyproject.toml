@@ -1,0 +1,14 @@
+[project]
+name = "zadanie-domowe-8-1"
+version = "0.1.0"
+description = " Python w systemach sztucznej inteligencji- Zadanie domowe 8.1"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.129.0",
+    "joblib>=1.5.3",
+    "openpyxl>=3.1.5",
+    "pydantic>=2.12.5",
+    "scikit-learn>=1.7.2",
+    "uvicorn>=0.40.0",
+]

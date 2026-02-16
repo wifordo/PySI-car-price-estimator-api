@@ -1,0 +1,21 @@
+# Venv
+.venv/
+venv/
+env/
+
+# Pliki tymczasowe Pythona i cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Pliki tymczasowe Excela (np. ~$auta.xlsx)
+~$*.xlsx
+
+# Ustawienia edytorów (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
