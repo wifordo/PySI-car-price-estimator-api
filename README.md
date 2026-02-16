@@ -76,3 +76,4 @@ Dane wyjściowe
 
 ## 7. Autorzy
 - Dawid Wikar
+- Piotr Korzec
